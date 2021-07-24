@@ -1,6 +1,6 @@
 # HEY GUYS !....
-<h2 align='center'> ** I'm Gopalakannan ** 😎 </h2>
-~~Feel free to raise issue if you find bug in my code~~🤕
+<h2 align='center'> <b> I'm Gopalakannan  😎 </b></h2>
+Feel free to raise issue if you find bug in my code🤕
 
 
 <h2> follow me on :<h2>
